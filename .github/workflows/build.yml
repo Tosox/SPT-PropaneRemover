@@ -38,6 +38,6 @@ jobs:
     - name: Archive Build Artifacts
       uses: actions/upload-artifact@v4
       with:
-        name: SPT-PropaneRemover
+        name: SPT-PeinsPropaneRemover
         path: bin/${{ env.BUILD_CONFIGURATION }}/*
         retention-days: 1

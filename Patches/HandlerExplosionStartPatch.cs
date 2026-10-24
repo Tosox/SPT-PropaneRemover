@@ -3,7 +3,7 @@ using HarmonyLib;
 using SPT.Reflection.Patching;
 using System.Reflection;
 
-namespace Tosox.PropaneRemover.Patches
+namespace Tosox.PeinsPropaneRemover.Patches
 {
     public class HandlerExplosionStartPatch : ModulePatch
     {

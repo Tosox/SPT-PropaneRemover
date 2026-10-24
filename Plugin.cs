@@ -1,7 +1,7 @@
 ﻿using BepInEx;
-using Tosox.PropaneRemover.Patches;
+using Tosox.PeinsPropaneRemover.Patches;
 
-namespace Tosox.PropaneRemover
+namespace Tosox.PeinsPropaneRemover
 {
     [BepInPlugin("com.pein.propaneremover", PluginName, PluginVersion)]
     public class Plugin : BaseUnityPlugin
