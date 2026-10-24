@@ -9,6 +9,7 @@
 ## ✨ Features
 
 * No more surprise deaths from exploding propane tanks
+* Also removes other explosive objects like fire extinguishers
 
 ## 📁 Installation
 

@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
-using Tosox.PropaneRemover;
+using Tosox.PeinsPropaneRemover;
 
 [assembly: AssemblyTitle(Plugin.PluginName)]
 [assembly: AssemblyCompany(Plugin.PluginSource)]
