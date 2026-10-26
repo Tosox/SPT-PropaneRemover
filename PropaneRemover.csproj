@@ -3,8 +3,8 @@
     <TargetFramework>net472</TargetFramework>
     <OutputType>Library</OutputType>
     <Nullable>disable</Nullable>
-    <RootNamespace>Tosox.PeinsPropaneRemover</RootNamespace>
-    <AssemblyName>Tosox.PeinsPropaneRemover</AssemblyName>
+    <RootNamespace>SPTPropaneRemover</RootNamespace>
+    <AssemblyName>SPTPropaneRemover</AssemblyName>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <Configurations>Debug;Release</Configurations>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>

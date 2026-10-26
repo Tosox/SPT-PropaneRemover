@@ -9,7 +9,7 @@ on:
         default: v0.0.0
         
 env:
-  PLUGIN_NAME: Tosox.PeinsPropaneRemover
+  PLUGIN_NAME: SPTPropaneRemover
 
 jobs:
   build:
@@ -29,7 +29,7 @@ jobs:
     - name: Download Build Artifacts
       uses: actions/download-artifact@v4
       with:
-        name: SPT-PeinsPropaneRemover
+        name: SPTPropaneRemover
         path: artifact
 
     - name: Create Release Zip

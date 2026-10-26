@@ -1,14 +1,14 @@
 ﻿using BepInEx;
-using Tosox.PeinsPropaneRemover.Patches;
+using SPTPropaneRemover.Patches;
 
-namespace Tosox.PeinsPropaneRemover
+namespace SPTPropaneRemover
 {
     [BepInPlugin("com.pein.propaneremover", PluginName, PluginVersion)]
     public class Plugin : BaseUnityPlugin
     {
-        internal const string PluginName = "Pein's Propane Remover";
+        internal const string PluginName = "Propane Remover";
         internal const string PluginVersion = "1.1.0";
-        internal const string PluginAuthor = "pein, Tosox";
+        internal const string PluginAuthor = "pein";
         internal const string PluginSource = "https://github.com/Tosox/SPT-PropaneRemover";
 
         internal void Awake()
